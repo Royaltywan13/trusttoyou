@@ -136,7 +136,7 @@
   }
   
   .header {
-    background: #FFFFFF;
+    background: #a4e3ee;
     border-bottom: 1px solid #EEE;
     position: sticky;
     top: 0;
@@ -161,7 +161,7 @@
   }
   
   .header a:hover {
-    color: red;
+    color: rgb(54, 35, 219);
   }
   
   .header .right {
@@ -370,7 +370,7 @@
   }
   
   .services {
-    background: #F5F5F5;
+    background: #e9e9f7;
   }
   
   .service__icon {
@@ -379,7 +379,7 @@
     justify-content: center;
     width: 90px;
     height: 90px;
-    border: 2px solid #5b6c78;
+    border: 2px solid #d5dbdf;
     border-radius: 50%;
   }
   
@@ -429,7 +429,7 @@
   
   .skills .progressbar {
     background: #F5F5F5;
-    color: #FFF;
+    color: #4556b4;
     margin-bottom: 1rem;
   }
   
@@ -473,7 +473,7 @@
   
   .portfolio-filters a.active {
     color: #FFF;
-    background: #5b6c78;
+    background:blue;
   }
   
   .modal {
